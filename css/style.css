@@ -20,7 +20,7 @@
     /* background-color: blueviolet;
     border: 2px solid red;
     min-height: 50px; */
-    text-align: center;
+    /* text-align: center; */
 }
 
 
@@ -28,6 +28,8 @@
     background-color: rgb(32, 154, 247);
     border: 2px solid rgb(255, 255, 255);
     min-height: 50px;
+    padding: 20px;
+    text-align: center;
 }
 
 
